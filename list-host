@@ -122544,6 +122544,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 afs.googlesyndication.com
 0.0.0.0 google-analytics.com
 0.0.0.0 cdn.mouseflow.com
+0.0.0.0 stats.g.doubleclick.net
 
 # End yoyo.org
 
