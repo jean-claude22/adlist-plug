@@ -122540,6 +122540,10 @@ ff02::3 ip6-allhosts
 0.0.0.0 zpu.samsungelectronics.com
 0.0.0.0 zqtk.net
 0.0.0.0 zy16eoat1w.com
+0.0.0.0 adservice.google.com
+0.0.0.0 afs.googlesyndication.com
+0.0.0.0 google-analytics.com
+0.0.0.0 cdn.mouseflow.com
 
 # End yoyo.org
 
